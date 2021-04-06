@@ -1,0 +1,14 @@
+{
+	"Format" : 1,
+	"MessagesPerSecond" : 2,
+	"SupiRange" : [
+		{
+			"MCC" : "901",
+			"MNC" : "70",
+			"MSINStart" : 9000000001,
+			"MSINEnd" : 9000000001,
+			"SubKey" : "88f8a96e2e5e457aaa9ad733e341b7ca",
+			"OPc" : "300cab65749c4ec48b4fbd55da3297b3"
+		}
+	]
+}
